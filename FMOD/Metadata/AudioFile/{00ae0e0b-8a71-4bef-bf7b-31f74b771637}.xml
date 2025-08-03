@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{00ae0e0b-8a71-4bef-bf7b-31f74b771637}">
+		<property name="assetPath">
+			<value>ES_Heavy Sword, Axe, Medieval Melee Weapon, Whoosh, Hard Metallic Impact x5 02 - Epidemic Sound - 3199-6386.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>3.1869999999999998</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{47a24ada-0f30-4ec8-961f-38b6f4a388d6}</destination>
+		</relationship>
+	</object>
+</objects>
